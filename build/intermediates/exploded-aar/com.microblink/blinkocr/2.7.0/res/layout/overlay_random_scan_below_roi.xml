@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/activity_random_scan">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="1.0"
+        android:layout_above="@+id/bottom_bar">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+        <ScrollView
+            android:layout_marginTop="@dimen/margin_random_scan_list"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8"
+            android:scrollbarStyle="outsideInset">
+
+            <LinearLayout
+                android:id="@+id/scan_elements_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+        </ScrollView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <RelativeLayout
+            android:id="@+id/bottom_bar_continue"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_bar_height"
+            android:visibility="gone"
+            tools:visibility="gone">
+
+            <Button
+                android:id="@+id/continue_button"
+                style="@style/BottomBarButton.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/mbContinue"/>
+
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:id="@+id/bottom_bar_overwrite_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone"
+            tools:visibility="visible"
+            android:orientation="vertical">
+
+            <!--suppress SelectableText -->
+            <TextView
+                android:id="@+id/tv_bottom_bar_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxWidth="220dp"
+                android:paddingTop="@dimen/margin_random_scan_list"
+                android:gravity="center"
+                android:layout_marginLeft="@dimen/margin_scan_message_horizontal"
+                android:layout_marginRight="@dimen/margin_scan_message_horizontal"
+                android:layout_marginBottom="@dimen/margin_scan_message_vertical"
+                android:textSize="@dimen/text_size_random_scan_message"
+                style="@style/RandomScanText"
+                tools:text="Are you sure that you wish to scan IBAN again?" />
+
+            <RelativeLayout
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/bottom_bar_height">
+
+                <Button
+                    android:id="@+id/left_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/BottomBarButton"
+                    android:layout_marginRight="@dimen/margin_button_bottom_bar"
+                    android:text="@string/PPCancel" />
+
+                <Button
+                    android:id="@+id/right_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/BottomBarButton"
+                    android:layout_toRightOf="@id/left_button"
+                    android:text="@string/mbConfirm"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>

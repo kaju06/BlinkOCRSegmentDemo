@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="1"
+    format="7"
+    timestamp="560127637577113"
+    token="-6884524261270160583" >
+
+    <task
+        name="javac"
+        duration="8109" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2773" />
+    <task
+        name="verifier"
+        duration="247" />
+
+    <artifact
+        location="C:\Users\abcd\Desktop\SE-lab\blinkocr-android-master\BlinkOCRDemo\BlinkOCRSegmentDemo\build\outputs\apk\BlinkOCRSegmentDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="560127637577113" >
+        <artifact
+            location="C:\Users\abcd\Desktop\SE-lab\blinkocr-android-master\BlinkOCRDemo\BlinkOCRSegmentDemo\build\outputs\apk\BlinkOCRSegmentDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\lightoff.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\lighton.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_flashlight_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_exit_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_help_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_blink_ocr.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\icon_help_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_blink_ocr.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\icon_exit_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\exploded-aar\\com.microblink\\blinkocr\\2.7.0\\res\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_help.png"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight.png",
+        "source": "C:\\Users\\abcd\\Desktop\\SE-lab\\blinkocr-android-master\\BlinkOCRDemo\\BlinkOCRSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_flashlight.png"
+    }
+]

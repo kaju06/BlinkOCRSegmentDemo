@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BlinkOCRCombination/BlinkOCRCombination.iml" filepath="$PROJECT_DIR$/../BlinkOCRCombination/BlinkOCRCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlinkOCRDemo.iml" filepath="$PROJECT_DIR$/../BlinkOCRDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlinkOCRDetectorDemo/BlinkOCRDetectorDemo.iml" filepath="$PROJECT_DIR$/../BlinkOCRDetectorDemo/BlinkOCRDetectorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlinkOCRDirectAPI/BlinkOCRDirectAPI.iml" filepath="$PROJECT_DIR$/../BlinkOCRDirectAPI/BlinkOCRDirectAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlinkOCRFullScreen/BlinkOCRFullScreen.iml" filepath="$PROJECT_DIR$/../BlinkOCRFullScreen/BlinkOCRFullScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlinkOCRRandomScanDemo/BlinkOCRRandomScanDemo.iml" filepath="$PROJECT_DIR$/../BlinkOCRRandomScanDemo/BlinkOCRRandomScanDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkOCRSegmentDemo.iml" filepath="$PROJECT_DIR$/BlinkOCRSegmentDemo.iml" />
+    </modules>
+  </component>
+</project>
